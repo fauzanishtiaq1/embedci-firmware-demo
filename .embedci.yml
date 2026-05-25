@@ -1,3 +1,5 @@
 board: stm32f4_disco
 app: .
 test: tests/smoke.robot
+gates:
+  flash_max_pct: 1
