@@ -16,3 +16,5 @@ int main(void)
     printk("LED on\n");
     return 0;
 }
+
+// detail-column fix verify Tue May 26 15:45:06 UTC 2026
