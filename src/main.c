@@ -16,3 +16,5 @@ int main(void)
     printk("LED on\n");
     return 0;
 }
+
+// verify tidy MISRA table Tue May 26 16:06:45 UTC 2026
