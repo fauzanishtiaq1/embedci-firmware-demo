@@ -1,3 +1,8 @@
 board: stm32f4_disco
 app: .
 test: tests/smoke.robot
+gates:
+  flash_max_pct: 95
+  ram_max_pct: 90
+  stack_max_bytes: 2048
+  misra_max: 5
