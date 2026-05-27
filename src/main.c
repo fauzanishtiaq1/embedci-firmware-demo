@@ -16,3 +16,5 @@ int main(void)
     printk("LED on\n");
     return 0;
 }
+
+int build_break_verify = ;
